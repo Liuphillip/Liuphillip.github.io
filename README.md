@@ -5,6 +5,9 @@
 # Education
 ### University of Victoria
 #### Bachelor's in Computer Engineering
+
+---
+
 # Projects
 ### Moving Bridge
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wmh_dPWZGJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -19,11 +22,23 @@ The bridge has the following features:
 
 The bridge is able to detect traffic under the bridge using utrasonic sensors and move up when there is an object under the bridge. When there is traffic **on** the bridge the bridge will not lift up. The bridge includes traffic lights for over the bridge traffic and under the bridge traffic which change colors depending on the type of trafic the bridge is currently servicing.
 
-### Remote Control Tank
+### Remote Controlled Tank
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UnlNZyYykUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This is a remote control tank built with an arduino and tamiya tank track model set. 
+The tank is connected wirelessly via bluetooth to a phone, and controlled using a custom app built in MIT app inventor.
+
+Compnents Used:
+
+-components used:
+-arduino uno
+-tamiya tank track set
+-l-298n motor controller
+-3 x 16350 batteries
 
 ### Pong
 
-
+Using C++ and the SFML graphics library I created the classic Pong game. The program uses object oriented programming.
 
 
 I really like using Markdown.
