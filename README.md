@@ -27,8 +27,9 @@ The bridge is able to detect traffic under the bridge using utrasonic sensors an
 
 This is a remote control tank built with an arduino and tamiya tank track model set. 
 The tank is connected wirelessly via bluetooth to a phone, and controlled using a custom app built in MIT app inventor.
+The code for the project can be found [here](https://github.com/Liuphillip/Arduino-Tank)
 
-Compnents Used:
+Components Used:
 
 -components used:
 -arduino uno
@@ -39,6 +40,8 @@ Compnents Used:
 ### Pong
 
 Using C++ and the SFML graphics library I created the classic Pong game. The program uses object oriented programming.
+
+The code for the project can be found [here](https://github.com/Liuphillip/Pong)
 
 
 I really like using Markdown.
