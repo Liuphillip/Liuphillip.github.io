@@ -31,7 +31,6 @@ The code for the project can be found [here](https://github.com/Liuphillip/Ardui
 
 Components Used:
 
--components used:
 -arduino uno
 -tamiya tank track set
 -l-298n motor controller
