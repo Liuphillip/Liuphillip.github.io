@@ -31,13 +31,14 @@ The code for the project can be found [here](https://github.com/Liuphillip/Ardui
 
 Components Used:
 
--arduino uno
--tamiya tank track set
--l-298n motor controller
--3 x 16350 batteries
+- arduino uno
+- tamiya tank track set
+- l-298n motor controller
+- 3 x 16350 batteries
 
 ### Pong
 
+![image](Untitled.png)
 Using C++ and the SFML graphics library I created the classic Pong game. The program uses object oriented programming.
 
 The code for the project can be found [here](https://github.com/Liuphillip/Pong)
