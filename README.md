@@ -27,7 +27,7 @@ The bridge is able to detect traffic under the bridge using utrasonic sensors an
 
 This is a remote control tank built with an arduino and tamiya tank track model set. 
 The tank is connected wirelessly via bluetooth to a phone, and controlled using a custom app built in MIT app inventor.
-The code for the project can be found [here](https://github.com/Liuphillip/Arduino-Tank)
+
 
 Components Used:
 
@@ -35,6 +35,8 @@ Components Used:
 - tamiya tank track set
 - l-298n motor controller
 - 3 x 16350 batteries
+
+The code for the project can be found [here](https://github.com/Liuphillip/Arduino-Tank)
 
 ### Pong
 
